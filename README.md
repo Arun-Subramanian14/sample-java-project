@@ -1,3 +1,6 @@
+#Author
+Arun Subramanian
+
 # Sample Java Project
 Hi! I've modified this file
 This is a reference for setting up a new Ant-based Java project. It
